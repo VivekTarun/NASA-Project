@@ -11,7 +11,7 @@ import {
 
 import AppLayout from "./pages/AppLayout";
 
-import { theme, resources, sounds } from "./settings";
+import { theme, resources, sounds } from "./settings"; 
 
 const App = () => {
   return <ThemeProvider theme={createTheme(theme)}>
