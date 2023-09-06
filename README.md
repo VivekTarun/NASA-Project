@@ -12,3 +12,10 @@ Futuristic Sci-Fi UI Framework.
 
 **Server:** Node, Express
 
+
+## Screenshots
+
+![App Screenshot](https://github.com/VivekTarun/Nasa-project/blob/readme/readme/home.png?raw=true) 
+
+
+![App Screenshot](https://github.com/VivekTarun/Nasa-project/blob/readme/readme/upcomming.png?raw=true)
